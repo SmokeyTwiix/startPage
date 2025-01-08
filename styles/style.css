@@ -184,19 +184,19 @@ input {
 }
 
 .link:nth-child(4):hover {
-    box-shadow: 0rem 0rem 4rem #0e76a8 ;
+    box-shadow: 0rem 0rem 4rem #0e76a8;
     transition: all ease-in-out 0.2s;
     .icon {
-        color: #0e76a8 ;
+        color: #0e76a8;
         transition: all ease-in-out 0.5s;
     }
 }
 
 .link:nth-child(5):hover {
-    box-shadow: 0rem 0rem 4rem #8B008B ;
+    box-shadow: 0rem 0rem 4rem #8B008B;
     transition: all ease-in-out 0.2s;
     .icon {
-        color: #8B008B ;
+        color: #8B008B;
         transition: all ease-in-out 0.5s;
     }
 }
