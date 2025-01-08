@@ -193,10 +193,10 @@ input {
 }
 
 .link:nth-child(5):hover {
-    box-shadow: 0rem 0rem 4rem #f2e9e4 ;
+    box-shadow: 0rem 0rem 4rem #8B008B ;
     transition: all ease-in-out 0.2s;
     .icon {
-        color: #24292e ;
+        color: #8B008B ;
         transition: all ease-in-out 0.5s;
     }
 }
