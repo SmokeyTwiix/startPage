@@ -201,6 +201,15 @@ input {
     }
 }
 
+.link:nth-child(6):hover {
+    box-shadow: 0rem 0rem 4rem #1fcccd;
+    transition: all ease-in-out 0.2s;
+    .icon {
+        color: #1fcccd;
+        transition: all ease-in-out 0.5s;
+    }
+}
+
 .icon {
     font-size: 40px;
 }
